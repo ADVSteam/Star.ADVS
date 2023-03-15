@@ -1,0 +1,4 @@
+Windows用法：
+	直接打开“Star.exe”文件
+MacOS用法：
+	暂无
