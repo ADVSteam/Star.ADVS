@@ -1,4 +1,0 @@
-Windows用法：
-	"Star.setup(x32,x64,x86)"为主文件用"py.exe"打开
-MacOS用法：
-	暂无
